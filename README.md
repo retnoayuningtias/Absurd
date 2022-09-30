@@ -1,2 +1,2 @@
-# BSI
-Human resources system
+# Absurd
+Human resources system that is developed by absurd
